@@ -5,8 +5,6 @@ I build modern, responsive web applications using React and Next.js
 
 ---
 
-![Banner](https://github.com/Umme-Hani26/Umme-Hani26/blob/main/profile.png?raw=true)
-
 ## 👩‍💻 About Me
 I am passionate about turning ideas into real-world web applications.  
 I enjoy working with modern frontend technologies and continuously improving my skills.
