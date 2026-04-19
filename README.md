@@ -15,6 +15,12 @@ I enjoy working with modern frontend technologies and continuously improving my 
 
 ![Tech](https://skillicons.dev/icons?i=react,nextjs,js,tailwind,git)
 
+**Frontend:** React, Next.js  
+**Styling:** Tailwind CSS  
+**Language:** JavaScript  
+**Tools:** Git  
+**API:** REST APIs  
+
 ---
 
 ## 📊 GitHub Stats
